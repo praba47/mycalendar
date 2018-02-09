@@ -1,0 +1,23 @@
+[
+    {
+    "UID" :1,
+    "EMP_ID" :"IN778",
+    "PASSWORD" :"born123",
+    "FNAME" :"John",
+    "LNAME" :"Jeyarathinam",
+    "GENDER" :"Male",
+    "DOB" :"16/01/1984",
+    "DOJ" :"01/11/2015",
+    "EMAIL_ID" :"john.gnanaraj@borngroup.com",
+    "DESIGNATION" :"Front End Developer",
+    "TEAM" :"Triad",
+    "DEPT" :"FED",
+    "DIVISION" :"Digital",
+    "CONTACT_NO" :9791710846,
+    "EMERGENCY_CONTACT_NO" :9791710856,
+    "ROLE" :"User",
+    "LAST_SEEN" :"09:20PM - 24/01/2018",
+    "TOKEN_ID" :"2f1020ab58bbdd0ba86a",
+    "SHIFT_TYPE" :"EST"
+    }
+]

@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+
+.myCalender {width: 50%; float: left; box-sizing: border-box; padding: 50px}
+.taskDetails {width:50%; float: right; box-sizing: border-box; padding: 50px}
+.fc-time {display: none}
